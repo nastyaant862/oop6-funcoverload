@@ -53,4 +53,3 @@ void PrintDouble(double* m, int N) {
 	}
 	cout << endl;
 }
-
